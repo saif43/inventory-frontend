@@ -1,0 +1,31 @@
+body{
+    font-size: larger;
+    font-family: "Open Sans", sans-serif;
+    
+}
+
+
+.icon-chevron-right{
+    float: right;
+   
+}
+.quantity{
+   max-width: 80px;
+}
+
+th{
+    text-align: center !important;
+    font-weight: 500 !important;
+}
+
+td{
+    text-align: center !important;
+    
+}
+.btn{
+    border-radius: 5px;
+}
+input{
+    border-radius: 5px !important;
+}
+
